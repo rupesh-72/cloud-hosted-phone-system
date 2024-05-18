@@ -1,2 +1,2 @@
-# cloud-hosted-phone-system
+# Cloud-Hosted-Phone-System
 Cloud Hosted IP-PBX Phone System
